@@ -1,0 +1,26 @@
+.form{
+  margin-top: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.form input[type="text"] {
+  height: 30px;
+  padding: 0 20px;
+  font-size: 20px;
+  border: 1px solid #ccc;
+  min-width: 80%;
+}
+
+.form button[type="submit"] {
+  border: none;
+  margin-left: 10px;
+  height: 30px;
+  width: 30px;
+  background: #f04c65e5;
+  color: #fff;
+  display: flex ;
+  align-items: center;
+  justify-content: center;
+}
